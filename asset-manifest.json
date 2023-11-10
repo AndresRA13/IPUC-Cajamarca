@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IPUC-Cajamarca/static/css/main.ae7f85e3.css",
-    "main.js": "/IPUC-Cajamarca/static/js/main.6d54557c.js",
+    "main.css": "/IPUC-Cajamarca/static/css/main.bde8708e.css",
+    "main.js": "/IPUC-Cajamarca/static/js/main.5caba198.js",
     "static/media/permanece.mp4": "/IPUC-Cajamarca/static/media/permanece.99f8ff1fb9a68d3fddd8.mp4",
     "static/media/ipuc.png": "/IPUC-Cajamarca/static/media/ipuc.65aa5bcf8c95d855e019.png",
     "index.html": "/IPUC-Cajamarca/index.html",
@@ -12,11 +12,11 @@
     "static/media/icon-close-menu.svg": "/IPUC-Cajamarca/static/media/icon-close-menu.2d5f02916aa6daae5414.svg",
     "static/media/icon-menu.svg": "/IPUC-Cajamarca/static/media/icon-menu.c0b2fced78da8062a370.svg",
     "static/media/icon-arrow-down.svg": "/IPUC-Cajamarca/static/media/icon-arrow-down.bebf05132571af33611ede9cdfdbed0f.svg",
-    "main.ae7f85e3.css.map": "/IPUC-Cajamarca/static/css/main.ae7f85e3.css.map",
-    "main.6d54557c.js.map": "/IPUC-Cajamarca/static/js/main.6d54557c.js.map"
+    "main.bde8708e.css.map": "/IPUC-Cajamarca/static/css/main.bde8708e.css.map",
+    "main.5caba198.js.map": "/IPUC-Cajamarca/static/js/main.5caba198.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae7f85e3.css",
-    "static/js/main.6d54557c.js"
+    "static/css/main.bde8708e.css",
+    "static/js/main.5caba198.js"
   ]
 }
